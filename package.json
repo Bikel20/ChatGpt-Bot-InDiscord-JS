@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-bot-indiscord-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bikel20/ChatGpt-Bot-InDiscord-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bikel20/ChatGpt-Bot-InDiscord-JS/issues"
+  },
+  "homepage": "https://github.com/Bikel20/ChatGpt-Bot-InDiscord-JS#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
